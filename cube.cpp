@@ -10,6 +10,7 @@ int main()
     cout<<"Enter a number:\n";
     cin>>num;
     cout<<"\n"<<"The cube of "<<num<<" is "<<cube(num)<<"\n";
+    cout<<"Hello their";
 //	cout << "give me a bottle of rum!" << endl;
 	return 0;
 }
