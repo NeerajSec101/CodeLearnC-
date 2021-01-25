@@ -11,6 +11,7 @@ int main()
     cin>>num;
     cout<<"\n"<<"The cube of "<<num<<" is "<<cube(num)<<"\n";
     cout<<"Hello their";
+    cout<<"what is git and useful.";
 //	cout << "give me a bottle of rum!" << endl;
 	return 0;
 }
